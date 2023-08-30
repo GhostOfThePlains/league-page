@@ -7,12 +7,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Step into the dynamic realm of the Old Phis Fantasy Football League, a 12-team extravaganza that pulses with intense rivalries and thrilling victories. This league isn't just a competition; it's a gathering of avid football enthusiasts who meld their love for the game with strategic prowess.</p>
+  <p>Within this league's tapestry of rivalries, matchups are more than just games – they're epic showdowns that fuel both camaraderie and competition. Yet, beyond the heated battles, it's the bonds forged over strategy discussions that truly set the Old Phis league apart.</p>
+  <p>Amidst the excitement, a name looms large this season – Trey Lance. Widely hailed as the NFL's most impactful player, Lance adds a new layer of anticipation to each fantasy matchup. His rise has electrified the Old Phis league, infusing every game with potential fantasy glory.</p>
+  <p>In the spotlight this year is Gage's formidable team, a blend of veterans and rising stars that promises greatness. The perfect fusion of skill sets positions Gage's team as a force to be reckoned with. As the season unfolds, rivals brace for clashes against this powerhouse, aware that facing Gage's team could define their fantasy journey.</p>
+  <p>The Old Phis Fantasy Football League epitomizes the fusion of sport and camaraderie. It celebrates touchdowns, tests mettle, and cherishes victories, embodying the essence of fantasy football as an unforgettable arena where strategy and friendships intertwine.</p>
 `;
 
 /*   STEP 3   */
